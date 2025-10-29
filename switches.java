@@ -30,7 +30,7 @@ public class switches {
                 System.out.println("Today is Sunday 😊");
                 break;
             default:
-                System.out.println("Invalid day");
+                System.out.println("non day");
 
                 
         }
