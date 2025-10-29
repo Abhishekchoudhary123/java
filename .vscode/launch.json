@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "writeFile",
+            "request": "launch",
+            "mainClass": "writeFile",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "Exce",
+            "request": "launch",
+            "mainClass": "Exce",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "varArgs",
+            "request": "launch",
+            "mainClass": "varArgs",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "aray",
+            "request": "launch",
+            "mainClass": "aray",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "dice",
+            "request": "launch",
+            "mainClass": "dice",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "banking",
+            "request": "launch",
+            "mainClass": "banking",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "skope",
+            "request": "launch",
+            "mainClass": "skope",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "overloding",
+            "request": "launch",
+            "mainClass": "overloding",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "overlod",
+            "request": "launch",
+            "mainClass": "overlod",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "method",
+            "request": "launch",
+            "mainClass": "method",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "nestLo",
+            "request": "launch",
+            "mainClass": "nestLo",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "brCon",
+            "request": "launch",
+            "mainClass": "brCon",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "flop",
+            "request": "launch",
+            "mainClass": "flop",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "fLoop",
+            "request": "launch",
+            "mainClass": "fLoop",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "numGuess",
+            "request": "launch",
+            "mainClass": "numGuess",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "wLoop",
+            "request": "launch",
+            "mainClass": "wLoop",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "logical",
+            "request": "launch",
+            "mainClass": "logical",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "firstHour",
+            "request": "launch",
+            "mainClass": "firstHour",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "firstHourArea",
+            "request": "launch",
+            "mainClass": "firstHourArea",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "firstHourGame",
+            "request": "launch",
+            "mainClass": "firstHourGame",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "math",
+            "request": "launch",
+            "mainClass": "math",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "nested",
+            "request": "launch",
+            "mainClass": "nested",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "randomNumber",
+            "request": "launch",
+            "mainClass": "randomNumber",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "secondHour",
+            "request": "launch",
+            "mainClass": "secondHour",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "secondProject",
+            "request": "launch",
+            "mainClass": "secondProject",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "switches",
+            "request": "launch",
+            "mainClass": "switches",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "temperature",
+            "request": "launch",
+            "mainClass": "temperature",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "ternary",
+            "request": "launch",
+            "mainClass": "ternary",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "weightConv",
+            "request": "launch",
+            "mainClass": "weightConv",
+            "projectName": "Java_8962e2a3"
+        }
+    ]
+}
