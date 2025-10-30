@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "oops",
+            "request": "launch",
+            "mainClass": "oops",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "Exec",
+            "request": "launch",
+            "mainClass": "Exec",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "dateTime",
+            "request": "launch",
+            "mainClass": "dateTime",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
+            "name": "redFile",
+            "request": "launch",
+            "mainClass": "redFile",
+            "projectName": "Java_8962e2a3"
+        },
+        {
+            "type": "java",
             "name": "writeFile",
             "request": "launch",
             "mainClass": "writeFile",
